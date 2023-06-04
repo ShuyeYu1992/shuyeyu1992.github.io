@@ -1,6 +1,5 @@
 title: "Shuye Yu"
 author: "Shuye Yu"
-description: "University of Oxford"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -21,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "contact.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:shuye.yu@ndph.ox.ac.uk"}
+# - {title: Mail, icon: envelope, url: "mailto:shuye.yu@ndph.ox.ac.uk"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
